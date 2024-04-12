@@ -1,1 +1,15 @@
-# 2024_hw2
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HW2-1</title>
+</head>
+<body>
+    <div>
+        <h1>과제 제출한 사람</h1>
+        <p>2020510041 박규동</p>
+    </div>
+
+</body>
+</html>
